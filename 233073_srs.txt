@@ -1,0 +1,60 @@
+SRS
+Document:System Requirement Specification Document
+
+Title:System Reqruiement Spefication for Online Ticket Booking System
+
+Objective (Purpose):
+	The online ticket booking system Web Applictaion is intended to  provide complete solution
+	 Consumers as well as internal users (Staff)  through  a single Gateway using 
+	internet. It will enable users to book different type of Tickets.
+
+Requirements:
+
+Functional Requirements:
+
+1. An Anonymous should be able to book tickets.
+2. Allow users to create accounts feild includes FirstName,LastName,EmailId,password.and Authenticate users by these feilds.
+3. Different sections should be able available for type of ticket boking Airline Tickets,Movie Tickets,Train Ticket,Event Ticket.
+4. User should able to  select specific seats for choose type of ticket.
+5. User should able to do payment through payment page:
+  5.1 Multiple Payment page should be supported
+    5.1.1 UPI,credit card, debit card
+6. The system should Generate ticket with different unique id numbers
+7.Email and SMS on Phone should be send on successfully Ticket booked.
+8.Allow Users to cancel Ticket within the selected Time Frame.
+9.Registered user should be notify in email for Events occured
+10.Administrative Users(Staff):
+  10.1 Allow to add or edit the events
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ The system supports customers booking and able to modify them
+1 Customers can search based on hotel, apartment, inns (ex. Radisson, Singapore)
+ When a customer search for hotels, apartment, and the search result must contain hotel or
+apartment information (Address, Ratings, and Price) and also its availability within
+choosing check in and check out date.
+ Customers able to cancel their booking from their account.
+ Staffs able to edit customers booking information (updating check in, check out, room
+preferences, bed preferences and also cancelling booking).
+ Customers can book online and pay with credit or debit card.
+ The system must send booking confirmation email after successful payment.
+ Customers can write reviews about hotels and apartment and also rate them.
+ Customers able to check their booking status from their individual account.
+ Customers can send feedback or call the company for booking purposes.
+ Customers can check for latest promotion or deal

@@ -1,0 +1,20 @@
+Business Operations  
+
+1.User login
+  1.1 Administrator(staff)
+  1.2 Customer
+2.Authenticate User login
+3.Types of Tickets
+  3.1 Train Ticket
+  3.2 Movie Ticket
+  3.3 Event Ticket 
+  3.4 Airline
+4.Book Ticket
+5. Payment Page
+  5.1 UPI
+  5.2 credit Card
+  5.3 debit card
+  5.4 Internet Banking
+6. Ticket Booked
+  
+
